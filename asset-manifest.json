@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.6833dcbd.css",
-    "main.js": "/portfolio-website/static/js/main.ac279438.js",
+    "main.js": "/portfolio-website/static/js/main.c0f6442b.js",
     "static/media/Tushar Verma 899.png": "/portfolio-website/static/media/Tushar Verma 899.356bdff771f6cbeab935.png",
-    "static/media/Tushar Verma Resume.pdf": "/portfolio-website/static/media/Tushar Verma Resume.7311725aee9069cfea14.pdf",
+    "static/media/Tushar Verma Resume.pdf": "/portfolio-website/static/media/Tushar Verma Resume.80a089762f66c64ef464.pdf",
     "index.html": "/portfolio-website/index.html",
     "main.6833dcbd.css.map": "/portfolio-website/static/css/main.6833dcbd.css.map",
-    "main.ac279438.js.map": "/portfolio-website/static/js/main.ac279438.js.map"
+    "main.c0f6442b.js.map": "/portfolio-website/static/js/main.c0f6442b.js.map"
   },
   "entrypoints": [
     "static/css/main.6833dcbd.css",
-    "static/js/main.ac279438.js"
+    "static/js/main.c0f6442b.js"
   ]
 }
