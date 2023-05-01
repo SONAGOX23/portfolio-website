@@ -1,10 +1,13 @@
-/* fonts */
+/* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@400;500;600&display=swap');
+
+/* Variabless CSS */
 
 :root {
     --header-height: 3rem;
 
-    /* colors */
+    /*  Colors  */
+    /* Color mode HSL(hue, saturation, lightness */
 
     --hue: 0;
     --sat: 0%;
@@ -13,6 +16,8 @@
     --text-color: hsl(var(--hue), var(--sat), 46%);
     --body-color: hsl(var(--hue), var(--sat), 98%);
     --container-color: #fff;
+
+    /* Font and typography */
 
     --body-font: 'Poppins', sans-serif;
 
@@ -25,6 +30,8 @@
     --smaller-font-size: 0.813rem;
     --tiny-font-size: 0.625rem;
 
+
+    /* Font weight */
 
     --font-normal: 400;
     --font-medium: 500;
@@ -114,6 +121,7 @@ img{
 
 .section{
     padding: 6rem 0 2rem;
+    height: 100vh;
 }
 
 .section__title{

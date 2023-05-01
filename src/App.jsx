@@ -5,6 +5,7 @@ import Home from './components/2.Home/Home';
 import About from './components/3.About/About';
 import Skills from './components/4.Skills/Skills';
 import Contact from './components/5.Contact/Contact';
+// import { Route, Switch } from 'react-router-dom';
 
 const App = () => {
   return (

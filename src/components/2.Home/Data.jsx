@@ -57,7 +57,7 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">CSE UNDER GRAD</h3>
         <p className="home__description">
-            I am a student in Chitkara University, Baddi. I am pursing B.E. in computer science engineering. This is my first project.
+        I am a Sedulous and Spirited Web Developer with a knowledge in C++
         </p>
 
         <a href="#contact" className="button button--flex">
